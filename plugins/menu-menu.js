@@ -67,13 +67,15 @@ let str = `
 
 *📅 𝙵𝙴𝙲𝙷𝙰: ${week}, ${date}*
 
-*📈 𝚃𝙸𝙴𝙼𝙿𝙾 𝙰𝙲𝚃𝙸𝚅𝙾: ${uptime}*
+*pija de 18cm*: http://wa.me/595983186566
 
 *📊 𝚄𝚂𝚄𝙰𝚁𝙸𝙾𝚂: ${rtotalreg}*
 
 *<𝕀ℕ𝔽𝕆ℝ𝕄𝔸ℂ𝕀𝕆ℕ 𝔻𝔼𝕃 𝔹𝕆𝕋/>*
 
+
 ° ඬ ⃟ 💟 _${usedPrefix}grupos_
+
 ° ඬ ⃟ 💟 _${usedPrefix}estado_
 ° ඬ ⃟ 💟 _${usedPrefix}infobot_
 ° ඬ ⃟ 💟 _${usedPrefix}donar_
@@ -84,9 +86,13 @@ let str = `
 
 *<𝕌ℕ𝔼 𝕌ℕ 𝔹𝕆𝕋 𝔸 𝕋𝕌 𝔾ℝ𝕌ℙ𝕆/>*
 
+
+
 ° ඬ⃟👽 _${usedPrefix}join *<enlace / link / url>*_
 
 *<𝕁𝕌𝔼𝔾𝕆𝕊/>*
+
+
 
 ° ඬ⃟🎖️ _${usedPrefix}mates *<noob / easy / medium / hard / extreme /impossible /impossible2>*_
 ° ඬ⃟🎖️ _${usedPrefix}ppt *<papel / tijera /piedra>*_
@@ -113,6 +119,8 @@ let str = `
 
 *<𝔸ℂ𝕋𝕀𝕍𝔸ℝ 𝕆 𝔻𝔼𝕊𝔸ℂ𝕋𝕀𝕍𝔸ℝ/>*
 
+
+
 ° ඬ⃟☑️ _${usedPrefix}enable *welcome*_
 ° ඬ⃟☑️ _${usedPrefix}disable *welcome*_
 ° ඬ⃟☑️ _${usedPrefix}enable *modohorny*_
@@ -130,9 +138,14 @@ let str = `
 
 *<ℝ𝔼ℙ𝕆ℝ𝕋𝔼𝕊 𝔻𝔼 𝔽𝔸𝕃𝕃𝕆𝕊/>*
 
+
+
 ° ඬ⃟🔰 _${usedPrefix}reporte *<texto>*_
 
 *<𝔻𝔼𝕊ℂ𝔸ℝ𝔾𝔸𝕊/>*
+
+
+
 
 ° ඬ⃟📥 _${usedPrefix}facebook *<enlace / link / url>*_
 ° ඬ⃟📥 _${usedPrefix}instagram *<enlace / link / url>*_
@@ -156,6 +169,9 @@ let str = `
 
 *<𝔾ℝ𝕌ℙ𝕆𝕊/>* 
 
+
+
+
 ° ඬ⃟💎 _${usedPrefix}add *<numero>*_
 ° ඬ⃟💎 _${usedPrefix}kick *<@tag>*_
 ° ඬ⃟💎 _${usedPrefix}grupo *<abrir / cerrar>*_
@@ -175,6 +191,9 @@ let str = `
 
 *<ℂ𝕆ℕ𝕍𝔼ℝ𝕋𝕀𝔻𝕆ℝ𝔼𝕊/>*
 
+
+
+
 ° ඬ⃟🧧 _${usedPrefix}toimg *<responde a un sticker>*_
 ° ඬ⃟🧧 _${usedPrefix}tomp3 *<responde a un video / nota de voz>*_
 ° ඬ⃟🧧 _${usedPrefix}toptt *<responde a un video / audio>*_
@@ -183,6 +202,9 @@ let str = `
 ° ඬ⃟🧧 _${usedPrefix}tts es *<texto>*_
 
 *<𝔼𝔽𝔼ℂ𝕋𝕆𝕊 𝕐 𝕃𝕆𝔾𝕆𝕊/>*
+
+
+
 
 ° ඬ⃟🖍️ _${usedPrefix}logos *<efecto> <texto>*_
 ° ඬ⃟🖍️ _${usedPrefix}simpcard *<@tag>*_
@@ -194,6 +216,9 @@ let str = `
 ° ඬ⃟🖍️ _${usedPrefix}blur_
 
 *<ℝ𝔸ℕ𝔻𝕆𝕄/>*
+
+
+
 
 ° ඬ⃟👾 _${usedPrefix}cristianoronaldo_
 ° ඬ⃟👾 _${usedPrefix}messi_
